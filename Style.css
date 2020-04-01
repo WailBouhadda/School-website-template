@@ -305,11 +305,12 @@ ul > button hover {
 .divin{
 	float: left;
 	width: 50%;
-	background-image: url("Images/wallhaven-488027.jpg");
+	background-color: #333;
 }
 .divout{
 	float: right;
 	width: 50%;
+	background-color: #333;
 	
 
 }
@@ -647,6 +648,14 @@ top: 4%;
 }
 .animation{
 	display: flex;
+}
+.sub-content{
+	position: relative;
+	top: 1%	;
+	
+}
+.lii{
+	text-align: center;
 }
 
 }
