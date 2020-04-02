@@ -135,12 +135,19 @@ body {
 	max-height: 400px;
 	transition: max-height 0.5s ease-in;
 }
+.center-div{
+	margin: 2%;
+	width: 95%;
+	height: 95%;
+	background-color: #ffffffb7;
+	box-shadow: 0 0 4px 2px black;
+}
 
 .nav_menu{
 	float: left;
 	font-family: unset;
-	font-size: 70%;
-	width: 700px;
+	font-size: 65%;
+	width: 70%;
 	height: 100%;
 	padding-left: 13%;
 
@@ -302,38 +309,50 @@ ul > button hover {
    	float: left;
 
 }
+.divin > h3 {
+	color: #fff;
+	font-family: 'Poppins' sans-serif;
+}
+.divin > p {
+	color: #fff;
+	font-family: 'Poppins' sans-serif;
+}
+.divout > p {
+	color: #fff;
+	font-family: 'Poppins' sans-serif;
+}
+.divout > h3 {
+	color: #fff;
+	font-family: 'Poppins' sans-serif;
+}
+.divout > h5 {
+	color: #fff;
+	font-family: 'Poppins' sans-serif;
+}
+
 .divin{
 	float: left;
-	width: 50%;
+	width: 25%;
 	background-color: #333;
+	margin: 2%;
+	margin-top: 5%;
+
 }
 .divout{
 	float: right;
-	width: 50%;
+	width: 65%;
 	background-color: #333;
+	margin: 2%;
+	text-align: center;
 	
 
 }
-.div3 > .divin > h3 {
-	font-family: cursive;
-	margin: 0 0 20px 0;
 
-}
-.div3 > .divin > p{
+.div3 > .divin{
+text-align: center;
 text-align: center;
 }
-.divout > ul > li {
-	padding-left: 40px;
-	margin: 20px 0 10px 0;
-}
-.divout > ul > li {
-	list-style: none;
-}
-.div3 > .divout > h3 {
-	font-family: cursive;
-	margin: 0 0 20px 0;
 
-}
 form.example input[type=text] {
   padding: 10px;
   font-size: 17px;
