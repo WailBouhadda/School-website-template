@@ -9,9 +9,9 @@
  
  ## 2. Main Technologies:
 
-##### <a href="https://html.com/>HTML</a>
-##### <a href="https://www.w3.org/Style/CSS/Overview.fr.html>CSS</a>
-##### <a href="https://www.javascript.com/>JavaScript</a>
+##### <a href="https://html.com/">HTML</a>
+##### <a href="https://www.w3.org/Style/CSS/Overview.fr.html">CSS</a>
+##### <a href="https://www.javascript.com/">JavaScript</a>
  
  ## 3. Some Captures about this project:
 
